@@ -1,2 +1,2 @@
-# consonance
+# Consonance
 Aesthetic responses to microtonal intervals
