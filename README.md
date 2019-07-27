@@ -23,3 +23,7 @@ All variations of diagrams are listed for violin plot, but only one example for 
 - roughess : Dissonance by Hutchinson & Knopoff (1978)
 - ratio.simplicity : Soothed relative periodicity by Stolzenburg (2015)
 - harmonicity : Harmonicity by Harrison & Pearce (2018)
+
+"Ho et al. 2019.csv" is used for violin plot and scatter plot.
+"Ho et al. 2019raw.csv" is used for line graph.
+To run, download the respecting .csv and run the analyses in R. 
